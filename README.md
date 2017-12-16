@@ -21,7 +21,7 @@ http://dl.nostale.gameforge.com/nostale_20170918_3/clients/fr/2017-09-15_Nostale
 
 # If it not works:
 
-Join the discord and ask it to an "Admin" or "Maître du jeu"
+Join the discord and ask it to me "Komisuto" or an "Maître du jeu"
 
 
 
