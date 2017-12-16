@@ -26,7 +26,7 @@ Join the discord and ask it to an "Admin" or "Maître du jeu"
 
 
 
-
+# Now enjoy ! ;)
 
 
 
