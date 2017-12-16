@@ -1,6 +1,9 @@
 # NosDFS
 Private Server nostale DFS fr
 
+Using opennos! https://github.com/OpenNos/OpenNos
+Opennos-Parser fr https://github.com/OpenNos/OpenNos
+
 Thanks to you to join this server but it's an french server !
 But if you want to change this juste join our discord and say it:
 https://discord.gg/tYew2aJ
