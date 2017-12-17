@@ -2,7 +2,7 @@
 Private Server nostale DFS fr still in alpha
 
 Using opennos! https://github.com/OpenNos/OpenNos
-Opennos-Parser fr https://github.com/OpenNos/OpenNos
+Opennos-Parser fr https://github.com/skr4w/Parser-Opennos-FR
 
 Thanks to you to join this server but it's an french server !
 But if you want to change this juste join our discord and say it:
