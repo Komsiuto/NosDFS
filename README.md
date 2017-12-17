@@ -1,5 +1,5 @@
 # NosDFS
-Private Server nostale DFS fr still in alpha
+Public Server nostale DFS fr still in alpha
 
 Using opennos! https://github.com/OpenNos/OpenNos
 Opennos-Parser fr https://github.com/skr4w/Parser-Opennos-FR
