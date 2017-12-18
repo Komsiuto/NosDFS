@@ -33,3 +33,8 @@ Join the discord and ask it to me "Komisuto" or an "Maître du jeu"
 
 
 
+
+# Please undertand that the server has 2 days and one developper so be patient for updates, Thanks !
+
+
+
