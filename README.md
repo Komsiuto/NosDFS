@@ -9,16 +9,20 @@ But if you want to change this juste join our discord and say it:
 https://discord.gg/tYew2aJ
 
 # What to do for join the server
-1- Download and install nostale on Steam or on the website:
+
+1- Download and install Hamachi https://www.vpn.net/
+
+2- Connect to an DFS hamachi network: https://github.com/Komsiuto/NosDFS/blob/master/Hamachi%20networks (Password is the name of the network
+
+3- Download and install nostale on Steam or on the website:
 
 http://store.steampowered.com/app/550470/NosTale/
 
 http://dl.nostale.gameforge.com/nostale_20170918_3/clients/fr/2017-09-15_Nostale_FR_Setup.exe
 
+4- Download the launcher https://github.com/Komsiuto/NosDFS/raw/master/NosDFS.exe and place it into your nostale folder
 
-2- Download the launcher https://github.com/Komsiuto/NosDFS/raw/master/NosDFS.exe and place it into your nostale folder
-
-3- Execute it !
+5- Execute it !
 
 
 
