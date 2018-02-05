@@ -1,5 +1,5 @@
 # NosDFS
-Public Server nostale DFS fr still in alpha
+Public Server nostale DFS fr still in pre-alpha and for the moment it isn't avaible please wait few days
 
 Using opennos! https://github.com/OpenNos/OpenNos
 Opennos-Parser fr https://github.com/skr4w/Parser-Opennos-FR
@@ -18,13 +18,16 @@ http://dl.nostale.gameforge.com/nostale_20170918_3/clients/fr/2017-09-15_Nostale
 
 2- Place the launcher "NosDFS.exe" into your nostale folder
 
-3- Run it !
+3- Execute it !
 
 
 
 # If it not works:
 
-Join the discord and ask it to me "Komisuto" or an "Maître du jeu"
+Read the "etat-du-serveur" channel to know if the sever is avaible
+
+If it is avaible 
+Ask it to me "Komisuto" or to "Skr4w"because he's more able to help you than me ^^'
 
 
 
@@ -34,7 +37,7 @@ Join the discord and ask it to me "Komisuto" or an "Maître du jeu"
 
 
 
-# Please undertand that the server has 2 days and one developper so be patient for updates, Thanks !
+# Please undertand that the server has few days and two developpers so be patient for updates, Thanks !
 
 
 
