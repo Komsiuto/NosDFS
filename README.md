@@ -9,14 +9,14 @@ But if you want to change this juste join our discord and say it:
 https://discord.gg/tYew2aJ
 
 # What to do for join the server
-1- Install nostale on Steam or on the website:
+1- Download and install nostale on Steam or on the website:
 
 http://store.steampowered.com/app/550470/NosTale/
 
 http://dl.nostale.gameforge.com/nostale_20170918_3/clients/fr/2017-09-15_Nostale_FR_Setup.exe
 
 
-2- Place the launcher "NosDFS.exe" into your nostale folder
+2- Download the launcher https://github.com/Komsiuto/NosDFS/raw/master/NosDFS.exe and place it into your nostale folder
 
 3- Execute it !
 
