@@ -41,7 +41,7 @@ Ask it to me "Komisuto" or to "Skr4w"because he's more able to help you than me 
 
 
 
-# Please undertand that the server has few days and two developpers so be patient for updates, Thanks !
+# Please undertand that the server has only few days and two developpers so be patient for updates, Thanks !
 
 
 
